@@ -12145,11 +12145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
+      "projectUniqueName": "D:\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
       "projectName": "ApexRestaurant.Mvc",
-      "projectPath": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
+      "projectPath": "D:\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\ApexRestaurant.Mvc\\obj\\",
+      "outputPath": "D:\\ApexRestaurant\\ApexRestaurant.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
